@@ -1,7 +1,3 @@
-# IPCalc
-PowerShell module to calculate the IP network segment and compare it to determine if they overlap.
-
-
 # IPCalc PowerShell
 
 A lightweight IPv4 subnet calculator for PowerShell.
@@ -404,4 +400,3 @@ Copyright © 2026 Luis Leonel Gomez Alvarez
 [LinkedIn](https://www.linkedin.com/in/luis-leonel-gomez-alvarez-b2aaba237)
 
 ---
-
